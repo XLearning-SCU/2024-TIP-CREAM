@@ -1,5 +1,6 @@
 # CREAM
 Official code for "Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining"
+paper link: [http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf]
 
 # Requirements
 Please follow these commands:
